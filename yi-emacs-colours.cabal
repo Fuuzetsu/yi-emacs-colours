@@ -1,8 +1,8 @@
 name:                yi-emacs-colours
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Simple mapping from colour names used in emacs to Color
 description:         Simple mapping from colour names used in emacs to Color
-homepage:            https://github.com/yi-emacs-colours
+homepage:            https://github.com/Fuuzetsu/yi-emacs-colours
 license:             GPL-2
 license-file:        LICENSE
 author:              Mateusz Kowalczyk
